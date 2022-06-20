@@ -9,3 +9,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgePachedjiev"/>
 
+🌐Social Networks🌐
+
+<a href="https://open.spotify.com/user/ifggm6sqokrc8cjoe2zmm12bm">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+
+
