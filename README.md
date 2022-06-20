@@ -12,6 +12,7 @@
 🌐Social Networks🌐
 
 <a href="https://open.spotify.com/user/ifggm6sqokrc8cjoe2zmm12bm">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+</a>
 
 
