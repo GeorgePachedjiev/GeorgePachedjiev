@@ -21,7 +21,7 @@
 <table>
         <tr>
             <td><a href="https://softuni.bg/users/profile/show?username=GeorgePachedjiev">
-            <img height="50" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsoftuni.bg%2FContent%2Fimages%2Fopen-graph%2Funiversity-default-og.png&imgrefurl=https%3A%2F%2Fsoftuni.bg%2F&tbnid=py2UfGpT246DjM&vet=12ahUKEwjGjL77xbz4AhUMNuwKHazjDVIQMygAegUIARCwAQ..i&docid=IR_ytKl1M-hINM&w=600&h=315&q=softuni&ved=2ahUKEwjGjL77xbz4AhUMNuwKHazjDVIQMygAegUIARCwAQ" />
+            <img height="50" src="https://commons.wikimedia.org/wiki/File:Logo_Software_University_%28SoftUni%29_-_blue.png#/media/File:Logo_Software_University_(SoftUni)_-_blue.png" />
             </a></td>
         </tr>
     </tbody>
