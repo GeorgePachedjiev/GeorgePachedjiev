@@ -15,16 +15,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgePachedjiev"/>
 
 🔗Connect with me🔗
+
 📧email: g.pachedjiev2006@gmail.com
-<table>
-    <tbody>
-        <tr>
-            <td><a href="">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
-            </a></td>
-        </tr>
-    </tbody>
-</table>
+
 
 
 
