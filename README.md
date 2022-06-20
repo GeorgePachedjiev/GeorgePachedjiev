@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/Георги Пачеджиев](https://www.facebook.com/profile.php?id=100010939216504)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="георги пачеджиев" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010939216504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="георги пачеджиев" height="30" width="40" /></a>
 <a href="https://discord.gg/Gegata#6280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gegata#6280" height="30" width="40" /></a>
 </p>
 
