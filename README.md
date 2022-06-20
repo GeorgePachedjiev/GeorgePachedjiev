@@ -9,10 +9,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgePachedjiev"/>
 
-🌐Social Networks🌐
-
-<a href="https://open.spotify.com/user/ifggm6sqokrc8cjoe2zmm12bm">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a>
 
 
