@@ -14,5 +14,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgePachedjiev"/>
 
+🔗Connect with me🔗
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://myaccount.google.com/?hl=bg&utm_source=OGB&utm_medium=act&pli=1">
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            </a></td>
+        </tr>
+    </tbody>
+</table>
+
 
 
