@@ -4,7 +4,7 @@
 
 💼 I’m currently learning in SoftUni (C#)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&theme=default&show_icons=true)
 
 💻Most used languages💻
 
