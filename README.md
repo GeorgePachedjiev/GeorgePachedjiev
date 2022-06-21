@@ -8,7 +8,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&theme=default&show_icons=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&theme=default&show_icons=true)
 
 <h3 align="left">💻Most used languages💻</h3>
 
