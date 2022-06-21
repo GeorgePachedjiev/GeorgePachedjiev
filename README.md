@@ -2,7 +2,7 @@
 
 🧑🏼‍🎓 I’m interested in C# Develpment 
 
-💻IT and Programming
+💻IT and Programmin
 
 💼 I’m currently learning in SoftUni (C#)
 
