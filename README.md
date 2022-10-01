@@ -1,4 +1,4 @@
-
+### 👋 Hi, I'm George Pachedjiev 👨‍💻
 
 🧑🏼‍🎓 I’m interested in C# Develpment 
 
