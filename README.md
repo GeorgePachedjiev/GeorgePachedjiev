@@ -11,12 +11,6 @@ Passionate about **IT, programming, and building cool projects**.
 
 ---
 
-### 🛠️ Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgePachedjiev&layout=compact"/>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p>
