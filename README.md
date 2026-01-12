@@ -7,9 +7,9 @@ Passionate about **IT, programming, and building real-world projects**.
 
 ### 💻 GitHub Stats
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&show_icons=true&theme=radical&count_private=true&hide_title=false)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&show_icons=true&count_private=true&hide=issues,contribs&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=default)
 
 ---
 
