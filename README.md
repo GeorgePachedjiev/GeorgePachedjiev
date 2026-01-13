@@ -5,11 +5,12 @@ Passionate about **IT, programming, and building real-world projects**.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats (Alternative)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgePachedjiev&show_icons=true&theme=default&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=default&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgePachedjiev&theme=default" alt="GitHub Streak" height="150" style="margin: 0 10px;" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=GeorgePachedjiev&theme=default" alt="GitHub Activity Graph" height="150" style="margin: 0 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GeorgePachedjiev&theme=default" alt="GitHub Trophy" height="150" style="margin: 0 10px;" />
 </p>
 
 ---
