@@ -7,10 +7,8 @@ Passionate about **IT, programming, and building real-world projects**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterhst-anuraghazra.vercel.app/api?username=GeorgePachedjiev&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="460" />
-  <img src="https://github-readme-stats-git-masterhst-anuraghazra.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=radical" alt="Top Languages" width="320" />
-</p>
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GeorgePachedjiev&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=radical)
 
 ---
 
