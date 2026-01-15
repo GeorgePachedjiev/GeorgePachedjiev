@@ -6,6 +6,7 @@ Passionate about **IT, programming, and building real-world projects**.
 ---
 
 ## 📊 GitHub Stats
+|||
 | :---: | :---: |
 | ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GeorgePachedjiev&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=radical) |
 
