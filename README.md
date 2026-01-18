@@ -29,7 +29,7 @@ Passionate about **IT, programming, and building real-world projects**.
 - 🎓 **BSc in Software Technologies and Design** – Plovdiv University "Paisii Hilendarski"
 - 💻 **C# & .NET Full-Stack Development** – SoftUni
 - 🌐 Web Development: **HTML, CSS, JavaScript**
-- 🧠 Algorithms & Software Design
+- 🧠 Algorithms & Software Design & CyberSecurity
 
 ---
 
