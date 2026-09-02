@@ -1,7 +1,7 @@
 # 👋 Hi, I'm George Pachedjiev 👨‍💻
 
 I’m a **C# enthusiast** and currently learning **Full-Stack Development** at **SoftUni**.  
-Passionate about **IT, programming, and building real-world projects**. Also I am a first-year bachelor’s student in Software Technologies and Design.
+Passionate about **IT, programming, and building real-world projects**. Also I am a second-year bachelor’s student in Software Technologies and Design.
 
 ---
 
