@@ -1,48 +1,42 @@
-# 👋 Hi, I'm George Pachedjiev 👨‍💻
+# 👋 Hi, I'm George Pachedjiev
 
-I’m a **C# enthusiast** and currently learning **Full-Stack Development** at **SoftUni**.  
-Passionate about **IT, programming, and building real-world projects**. Also I am a second-year bachelor’s student in Software Technologies and Design.
+🎓 Second-year Bachelor's student in **Software Technologies and Design** at Plovdiv University "Paisii Hilendarski".
 
----
+💻 Junior Software Developer focused on **C# and .NET**, with knowledge of **OOP, SQL, Entity Framework Core, JavaScript and web development**.
 
-## 📊 GitHub Stats
-|||
-| :---: | :---: |
-| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GeorgePachedjiev&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeorgePachedjiev&layout=compact&theme=radical) |
+🚀 I enjoy building software projects, learning new technologies and improving my programming skills through practical development.
 
----
+### 🛠️ Technologies
 
-## 🛠️ Languages & Tools
+* **Languages:** C#, JavaScript, SQL, Python
+* **.NET:** C#, OOP, Entity Framework Core
+* **Web:** HTML, CSS, JavaScript
+* **Databases:** MS SQL
+* **Tools:** Git, GitHub
+* **Other:** Algorithms, Data Structures, Software Engineering, DevOps
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-</p>
+### 🎓 Education
 
----
+* **Plovdiv University "Paisii Hilendarski"**
 
-## 🎓 Education & Learning
+  * BSc Software Technologies and Design
+  * 2025 – Present
 
-- 🎓 **BSc in Software Technologies and Design** – Plovdiv University "Paisii Hilendarski"
-- 💻 **C# & .NET Full-Stack Development** – SoftUni
-- 🌐 Web Development: **HTML, CSS, JavaScript**
-- 🧠 Algorithms, DataBase, CyberSecurity & Design
+* **IT Career – Applied Programmer**
 
----
+  * National Program "IT Career"
+  * 2022 – 2025
 
-## 🔗 Connect with Me
+### 📜 Certifications
 
-<p align="center">
-  <a href="mailto:g.pachedjiev2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-g.pachedjiev2006@gmail.com-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/GeorgePachedjiev">
-    <img src="https://img.shields.io/badge/GitHub-GeorgePachedjiev-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/george-pachedjiev/">
-    <img src="https://img.shields.io/badge/LinkedIn-GeorgePachedjiev-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+* C# Programming Basics
+* C# Programming Fundamentals
+* C# Advanced
+* C# OOP
+* JavaScript Advanced
+* JavaScript Applications
+* MS SQL
+* Entity Framework Core
+* Software Engineering and DevOps
+* Introduction to Cybersecurity
+* Programming Basics with Python
